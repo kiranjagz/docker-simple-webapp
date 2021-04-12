@@ -1,0 +1,4 @@
+1. Docker login
+2. Create public repo on docker hub
+3. Create a tag for the image build eg. docker tag kiran/my-custom-image:latest username/repo:imagename
+4. Push custom tag tp docker hub eg. docker push username/repo:imagename
